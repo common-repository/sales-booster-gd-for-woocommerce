@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Booster GD for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-12 11:58+0000\n"
+"PO-Revision-Date: 2021-03-12 11:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: Română\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.6.2"
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:74
+msgid "Map"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:83
+msgid "IP"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:101
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:126
+msgid "Nothing to show"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:108
+msgid "Devices"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:135
+msgid ""
+"Please keep in mind that the unique visitors will reset every 30 days. \n"
+"                                        If you reach your traffic limit "
+"within this interval the pop-up will stop showing and you need to wait for "
+"the 30 days reset."
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:137
+msgid "Or purchase premium version."
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:145
+msgid "Status"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:146
+msgid "Counter Reset"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:147
+msgid "Unique Visits"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:148
+msgid "Max Users"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:207
+msgid ""
+"Are You \" All or Nothing\" Type? Then get the full experience with the "
+"Premium Features of the Sales Booster GD!"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:208
+msgid "It will definitely worth your money and time!"
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:209
+msgid ""
+"Premium version includes extra fields & features that`ll convert visitors "
+"into leads and sales at a decent price. Every plan will determine the number "
+"of unique visitors /month on your website."
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:210
+msgid "Click to see the premium features that will power up your website."
+msgstr ""
+
+#: admin/partials/sales-booster-gd-woocommerce-admin-display.php:228
+msgid "Available orders"
+msgstr ""
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:127
+msgid "Recently bought"
+msgstr "A cumparat recent"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:129
+#, php-format
+msgid "%s hours ago"
+msgstr "cu %s ore în urmă"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:131
+msgid "Yesterday"
+msgstr "Ieri"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:133
+#, php-format
+msgid "%s days ago"
+msgstr "cu %s zile în urmă"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:156
+msgid "from"
+msgstr "din"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:157
+msgid "Bought"
+msgstr "A achizitionat"
+
+#: public/partials/sales-booster-gd-woocommerce-public-display.php:164
+msgid "By"
+msgstr "De"
+
+#. Name of the plugin
+msgid "Sales Booster GD for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid "Show recent sales popups on your website & Build trust in your Business"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://globaldev.app/pricing/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Globaldev"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://globaldev.app/"
+msgstr ""
